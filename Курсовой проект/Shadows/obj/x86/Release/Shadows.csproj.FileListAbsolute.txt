@@ -1,0 +1,26 @@
+c:\WORK\X\Затенение\Shadows\bin\Release\Shadows.exe
+c:\WORK\X\Затенение\Shadows\bin\Release\Shadows.pdb
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.ShadowsForm.resources
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.Properties.Resources.resources
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.csproj.GenerateResource.cache
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.csproj.CoreCompileInputs.cache
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.exe
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.pdb
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.FormConus.resources
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.FormCube.resources
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.FormCylinder.resources
+c:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.FormPrizma.resources
+C:\WORK\X\Затенение\Shadows\obj\x86\Release\Shadows.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Курсовой проект\Shadows\bin\Release\Shadows.exe
+\\Mac\Home\Desktop\Курсовой проект\Shadows\bin\Release\Shadows.pdb
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.FormConus.resources
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.FormCube.resources
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.FormCylinder.resources
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.FormPrizma.resources
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.ShadowsForm.resources
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.Properties.Resources.resources
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.exe
+\\Mac\Home\Desktop\Курсовой проект\Shadows\obj\x86\Release\Shadows.pdb
